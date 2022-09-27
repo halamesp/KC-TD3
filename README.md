@@ -8,4 +8,3 @@ Method is tested in [OpenAI gym](https://github.com/openai/gym). Networks are tr
 
 **We will release the code soon.**
 
-### Results
