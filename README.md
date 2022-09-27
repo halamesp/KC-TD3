@@ -9,4 +9,3 @@ Method is tested in [OpenAI gym](https://github.com/openai/gym). Networks are tr
 **We will release the code soon.**
 
 ### Results
-Code is no longer exactly representative of the code used in the paper.
